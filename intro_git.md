@@ -76,8 +76,10 @@ Git Log:
 Git Interels:
 ---
 Three tree arch.
+
 1. Working
 2. Staging Index (Used for staging multiple files to be commited)
 3. Repository
-* Working and repository you checkout from repository and you commit into
-repository from working tree. *
+
+*Working and repository you checkout from repository and you commit into
+repository from working tree.*
