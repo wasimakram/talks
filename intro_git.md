@@ -10,9 +10,7 @@ Introduction to Git/Github
 another good hosting service.
   - Who should use it?
     Anyone who is working with colleborated text files.
-
-  - How to use it via Gui Clients git-scm.com/downloads/guis
-  - How to use via command line https://try.github.io
+  - Tutorial [try.github.com](https://try.github.com)
 
 
 Initial Commands
