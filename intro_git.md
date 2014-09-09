@@ -91,3 +91,4 @@ Refferences:
 2. [PSD support] (https://cloud.githubusercontent.com/assets/2546/3165594/55f2798a-eb56-11e3-92e7-b79ad791a697.gif)
 3. Mac GUIs http://git-scm.com/download/gui/mac
 4. Talks http://vimeo.com/album/2763106
+5. Tutorial [Try Git](http://try.github.com/)
