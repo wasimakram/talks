@@ -83,3 +83,11 @@ Three tree arch.
 
 *Working and repository you checkout from repository and you commit into
 repository from working tree.*
+
+
+Refferences:
+---
+1. Git http://git-scm.com/
+2. PSD support http://git-scm.com/
+3. Mac GUIs http://git-scm.com/download/gui/mac
+4. Talks http://vimeo.com/album/2763106
