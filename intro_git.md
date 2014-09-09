@@ -88,7 +88,7 @@ Github
 ---
 1. `git remote add origin https://github.com/user/repo.git`
 2. `git remote -v`
-3. `git push remotename branchname` Remote and branch name are optional
+3. `git push -u remotename branchname` Remote and branch name are optional
 4. `git pull` `git fetch && git merge remotename/branchname`
 
 
