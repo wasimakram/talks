@@ -1,4 +1,4 @@
-talks
+Notes on Talks
 =====
 
-Contains Documents for various talks.
+1. [Introduction to Git](intro_git.md)
