@@ -21,6 +21,7 @@ Initial Commands
 - `git config`
 - `git help`
 
+
 Commit
 ---
 - Commit ID: sha-1 hash for the content
@@ -73,7 +74,7 @@ Git Log:
 5. `--grep="Typo"`
 
 
-Git Interels:
+Git Interels
 ---
 Three tree arch.
 
@@ -85,7 +86,15 @@ Three tree arch.
 repository from working tree.*
 
 
-Refferences:
+Github
+---
+1. `git remote add origin https://github.com/user/repo.git`
+2. `git remote -v`
+3. `git push remotename branchname` Remote and branch name are optional
+4. `git pull` `git fetch && git merge remotename/branchname`
+
+
+Refferences
 ---
 1. Git http://git-scm.com/
 2. [PSD support] (https://cloud.githubusercontent.com/assets/2546/3165594/55f2798a-eb56-11e3-92e7-b79ad791a697.gif)
